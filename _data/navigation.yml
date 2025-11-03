@@ -1,6 +1,6 @@
 main:
 
-  - title: "Post"
+  - title: "Posts"
     url: talks/
     right: true 
 
