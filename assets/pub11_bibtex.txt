@@ -1,0 +1,12 @@
+@inproceedings{DBLP:conf/cvpr/HuJTCMZ20,
+  author       = {Xinting Hu and
+                  Yi Jiang and
+                  Kaihua Tang and
+                  Jingyuan Chen and
+                  Chunyan Miao and
+                  Hanwang Zhang},
+  title        = {Learning to Segment the Tail},
+  booktitle    = {2020 {IEEE/CVF} Conference on Computer Vision and Pattern Recognition,
+                  {CVPR} 2020, Seattle, WA, USA, June 13-19, 2020},
+  year         = {2020},
+}

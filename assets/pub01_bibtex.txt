@@ -1,0 +1,9 @@
+@misc{huang2025memoryforcingspatiotemporalmemory,
+      title={Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft}, 
+      author={Junchao Huang and Xinting Hu and Boyao Han and Shaoshuai Shi and Zhuotao Tian and Tianyu He and Li Jiang},
+      year={2025},
+      eprint={2510.03198},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.03198}, 
+}

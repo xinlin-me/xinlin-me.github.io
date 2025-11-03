@@ -1,0 +1,7 @@
+@article{zhu2025hierarchical,
+  title = {Hierarchical Progressive Learning for Zero-Shot Peptide-HLA Binding Prediction and Automated Antigenic Peptide Design},
+  author = {Zhu, Xinyuan and Lu, Jiadong and Hu, Xinting and Jin, Tengchuan and Lu, Shan and Feng, Fuli},
+  journal = {Cell Reports},
+  year = {2025},
+  publisher = {Cell Press},
+}

@@ -1,0 +1,8 @@
+@InProceedings{Wu_2025_CVPR,
+    author    = {Wu, Yongliang and Hu, Xinting and Sun, Yuyang and Zhou, Yizhou and Zhu, Wenbo and Rao, Fengyun and Schiele, Bernt and Yang, Xu},
+    title     = {Number it: Temporal Grounding Videos like Flipping Manga},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {13754-13765}
+}

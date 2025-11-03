@@ -1,0 +1,9 @@
+BibTex
+@InProceedings{Hu_2025_CVPR,
+    author    = {Hu, Xinting and Wang, Haoran and Lenssen, Jan Eric and Schiele, Bernt},
+    title     = {PersonaHOI: Effortlessly Improving Face Personalization in Human-Object Interaction Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {23775-23784}
+}

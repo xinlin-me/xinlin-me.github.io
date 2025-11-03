@@ -1,0 +1,15 @@
+@InProceedings{10.1007/978-3-031-72949-2_3,
+author="Das, Anurag
+and Hu, Xinting
+and Jiang, Li
+and Schiele, Bernt",
+editor="Leonardis, Ale{\v{s}}
+and Ricci, Elisa
+and Roth, Stefan
+and Russakovsky, Olga
+and Sattler, Torsten
+and Varol, G{\"u}l",
+title="MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025",
+}

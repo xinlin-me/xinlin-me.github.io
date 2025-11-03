@@ -1,0 +1,6 @@
+@article{wu2025kris,
+        title={KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models},
+        author={Wu, Yongliang and Li, Zonghui and Hu, Xinting and Ye, Xinyu and Zeng, Xianfang and Yu, Gang and Zhu, Wenbo and Schiele, Bernt and Yang, Ming-Hsuan and Yang, Xu},
+        journal={arXiv preprint arXiv:2505.16707},
+        year={2025}
+}

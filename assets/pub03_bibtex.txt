@@ -1,0 +1,6 @@
+@inproceedings{huang2025edit360,
+  title={Edit360: 2D Image Edits to 3D Assets from Any Angle},
+  author={Huang, Junchao and Hu, Xinting and Shi, Shaoshuai and Tian, Zhuotao and Jiang, Li},
+  booktitle={ICCV},
+  year={2025}
+}
