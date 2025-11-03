@@ -1,14 +1,17 @@
 main:
 
-  - title: "Teaching"
-    url: teaching/
+  - title: "Post"
+    url: talks/
     right: true 
 
-  - title: "Services"
-    url: services/
+  - title: "Teaching"
+    url: teaching/
 
-  - title: "Talks"
-    url: talks/
+  #- title: "Services"
+  #  url: services/
+
+  #- title: "Group"
+  #  url: https://cvmi.hku.hk/wp-content/uploads/cvmi/index.html
 
   #- title: "Teaching"
   #  url: ./teaching.html
