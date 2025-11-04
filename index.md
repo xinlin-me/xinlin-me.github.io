@@ -20,6 +20,7 @@ You can find my CV [here](https://). If you are interested in any aspect of my w
 - 09/2019–06/2022 M.A. Renmin University of China  
   Supervisors: Lv Ping, Zheng Hua
 - 09/2015–06/2019 B.A., Renmin University of China  
+<br>
 
 ## Conferences and Workshops
 ------
