@@ -9,6 +9,7 @@ layout: homepage
 Hello! I'm a final-year Ph.D. candidate at The Hong Kong Polytechnic University. I am on the 2025 - 2026 job market. My research interests lie in Development Econimics, Regional and Real Estate Economics, and Public Policy, with a particular focus on *land property rights, human capital, place-based policies, and rural entrepreneurship*.
 
 You can find my CV [here](https://). If you are interested in any aspect of my work, please feel free to contact me via email: [22040745r@connect.polyu.hk](mailto:22040745r@connect.polyu.hk). I would love to chat and collaborate.  
+<br>
 
 ## Education 
 ------
@@ -21,6 +22,7 @@ You can find my CV [here](https://). If you are interested in any aspect of my w
 - 09/2015–06/2019 B.A., Renmin University of China  
 
 ## Conferences and Workshops
+------
 - 2025 Presenter for the 17th CEA (Europe) and 36th CEA (UK) Annual Conference, UK
 - 2024 Presenter for the 2024 SMU-Jinan Conference on Urban and Regional Economics, Singapore
 - 2024 Presenter for the 13th European Meeting of Urban Economics, Urban Economics Association, Denmark
