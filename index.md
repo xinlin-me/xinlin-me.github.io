@@ -32,6 +32,6 @@ You can find my CV [here](https://). If you are interested in any aspect of my w
 - 2021 Presenter for the 2021 China Association of Real Estate Academicians 
 
 
-<!--{% include_relative _includes/news.md %}-->
+{% include_relative _includes/news.md %}
 
 <!--{% include_relative _includes/contact.md %}-->
