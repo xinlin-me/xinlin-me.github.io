@@ -1,15 +1,15 @@
 # Basic Information 
-title: Xinting Hu
-position: Postdoctoral Researcher
-affiliation: HongKong University
-affiliation_link: https://www.hku.hk/
+title: Xin Lin
+position: Ph.D. candidate
+affiliation: Hong Kong Polytechnic University
+affiliation_link: https://www.polyu.edu.hk/
 affiliation_logo: ./assets/img/illinois.svg
-email: xinting001@e.ntu.edu.sg
+email: 22040745r@connect.polyu.hk
 
 # Search Engine Optimization (SEO)
-keywords: xinting hu, hu xinting, xintinghu, huxinting
+keywords: Xin Lin, Lin Xin, xinlin, linxin
 #canonical: https://yaoyaoliu.web.illinois.edu
-description: Xinting Hu is a postdoctoral researcher at the University of Hong Kong. Her research lies in equip machines with open-world capabilities for perceiving, understanding, and reconstructing the visual world.
+description: Xin Lin is a final-year Ph.D. candidate at The Hong Kong Polytechnic University.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -19,10 +19,10 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=o6h6sVMAAAAJ
-github_link: https://github.com/JoyHuYY1412 
-linkedin: https://www.linkedin.com/in/xinting-hu-88a776b4/
-twitter: https://x.com/kaleidudu?s=21
+#google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=o6h6sVMAAAAJ
+github_link: https://github.com/xinlin-me/ 
+#linkedin: https://www.linkedin.com/in/xinting-hu-88a776b4/
+#twitter: https://x.com/kaleidudu?s=21
 
 # Images 
 #avatar: https://img.yliu.me/avatar_new.jpg
