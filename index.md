@@ -6,11 +6,9 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am Xinting Hu. Currently, I am a postdoctoral researcher at [CVMI Lab](https://cvmi.hku.hk/wp-content/uploads/cvmi/index.html), HKU.  
+Hello! I'm a final-year Ph.D. candidate at The Hong Kong Polytechnic University. I am on the 2025 - 2026 job market. My research interests lie in Development Econimics, Regional and Real Estate Economics, and Public Policy, with a particular focus on land property rights, human capital, place-based policies, and rural entrepreneurship.
 
-My objective is to develop visual intelligence that can perceive, interpret, and simulate the visual world, with emphasis on: 1) visual learning systems that remain efficient, robust, and continually adaptable; 2) generative modeling with strong multi-view consistency and controllability; and 3) multimodal intelligence that integrates diverse signals to improve reasoning under real-world settings. Besides, I am interested in leveraging AI to advance scientific and medical research.  
-
-Previously, I completed my Ph.D. at [MReal Lab](https://mreallab.github.io/), Nanyang Technological University, and conducted postdoctoral research at [D2](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning), Max Planck Institute for Informatics. Before that, I got a B.Eng. degree from USTC.  My biography is available [here](./assets/CV_en.pdf).  
+You can find my CV [here](https://). If you are interested in any aspect of my work, please feel free to contact me via email: [22040745r@connect.polyu.hk](mailto:22040745r@connect.polyu.hk). I would love to chat and collaborate. 
 
 {% include_relative _includes/news.md %}
 
