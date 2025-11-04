@@ -1,3 +1,4 @@
+<!-- Remy 
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
@@ -12,7 +13,7 @@
 <li><strong>[Mar. 2025]</strong> Our <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Hu_PersonaHOI_Effortlessly_Improving_Face_Personalization_in_Human-Object_Interaction_Generation_CVPR_2025_paper.html">paper</a> about Training-Free HOI Image Generation is accepted by CVPR 2025. </li>
 <li><strong>[Mar. 2025]</strong> Our <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Number_it_Temporal_Grounding_Videos_like_Flipping_Manga_CVPR_2025_paper.html">paper</a> about Visual Prompt for Video Temporal Grounding is accepted by CVPR 2025. </li>
   
-<!-- Remy 
+
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
   <li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a> and <a href="https://www.auai.org/uai2024/">UAI 2024</a>.</li>
@@ -41,6 +42,7 @@
   <li><strong>[Sep. 2019]</strong> Our paper about <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">few-shot learning</a> is accepted to <a href="https://nips.cc/Conferences/2019">NeurIPS 2019</a>.</li>
   <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
 </div>
--->
+
 
 </ul>
+-->
