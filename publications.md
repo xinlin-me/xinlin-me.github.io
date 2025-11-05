@@ -17,8 +17,8 @@ Selected Work
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001609"><b>Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship</b></a></font></p>
     <p class="pub-p"><font size=3>With Eddie C.M. Hui, Zhenglong Cong, and Jianfu Shen. <b><I>Journal of Development Economics, 2026</I></b></font></p>
-    <p class="pub-p"><font size=5><b>Awards</b>: Best Paper Prize for outstanding papers at the 3rd Global Urban Governance and Policy Symposium</font></p>
-    <p class="pub-p"><font size=5><b>Selected Presentations</b>: Strategic Entrepreneurship Journal Paper Workshop, Hong Kong (2024), 13th European Meeting of Urban Economics, (UEA 2024), AsRES International Real Estate Conference (2024), SMU-Jinan Conference on Urban and Regional Economics (2024), the 3rd Global Urban Governance and Policy Symposium (2025)</font></p>
+    <p class="pub-p"><font size=2><b>Awards</b>: Best Paper Prize for outstanding papers at the 3rd Global Urban Governance and Policy Symposium</font></p>
+    <p class="pub-p"><font size=2><b>Selected Presentations</b>: Strategic Entrepreneurship Journal Paper Workshop, Hong Kong (2024), 13th European Meeting of Urban Economics, (UEA 2024), AsRES International Real Estate Conference (2024), SMU-Jinan Conference on Urban and Regional Economics (2024), the 3rd Global Urban Governance and Policy Symposium (2025)</font></p>
   </div>
   </td></tr>
 
