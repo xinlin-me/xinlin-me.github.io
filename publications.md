@@ -11,7 +11,7 @@ Selected Work
   <table style="border-collapse: collapse; border: none;">
     
   <tr><td width="300" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="./assets/pub01.png" width="400"></div>
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="../../assets/pub01.png" width="400"></div>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
