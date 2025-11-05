@@ -14,11 +14,8 @@ You can find my CV [here](https://). If you are interested in any aspect of my w
 ## Education 
 ------
 - 09/2022–08/2025 Ph.D., The Hong Kong Polytechnic University  
-  Supervisors: Eddie C.M. Hui, Jianfu Shen
 - 09/2024–03/2025 Visiting Ph.D. Student, NUS Business School  
-  Supervisor: Yu Qin
 - 09/2019–06/2022 M.A. Renmin University of China  
-  Supervisors: Lv Ping, Zheng Hua
 - 09/2015–06/2019 B.A., Renmin University of China  
 <br>
 
