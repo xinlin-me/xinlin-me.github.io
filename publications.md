@@ -40,7 +40,7 @@ Selected Work
   <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p"><font size=3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957377"><b>Can We Balance Green and Growth? The Environmental Effect of Place-based Policies</b></a></font></p>
-    <p class="pub-p"><font size=3>With Fangrui Liu, Peng Zhang, Shilin Zheng. <b><I>R&R at Journal of Economic Behavior & Organization</I></b></font></p>
+    <p class="pub-p"><font size=3>With Fangrui Liu, Peng Zhang, Shilin Zheng. <b><I> Journal of Economic Behavior & Organization, 2026</I></b></font></p>
     <p class="pub-p"><font size=2><b>Selected Presentations</b>: Camphor Regional Economics Forum (2023)</font></p>
   </div>
   </td></tr>
