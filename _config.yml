@@ -1,15 +1,15 @@
 # Basic Information 
 title: Xin Lin
-position: Ph.D. candidate
-affiliation: Hong Kong Polytechnic University
-affiliation_link: https://www.polyu.edu.hk/
+position: Assistant Professor
+affiliation: Renmin University of China
+affiliation_link: https://www.ruc.edu.cn/
 affiliation_logo: ./assets/img/illinois.svg
-email: 22040745r@connect.polyu.hk
+email: xinlin@ruc.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: Xin Lin, Lin Xin, xinlin, linxin
 #canonical: https://yaoyaoliu.web.illinois.edu
-description: Xin Lin is a final-year Ph.D. candidate at The Hong Kong Polytechnic University.
+description: Xin Lin is an assistant professor at Renmin University of China.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
